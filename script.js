@@ -35,7 +35,7 @@ function flashRainbowColors(callback) {
         if (callback) {
             callback();
         }
-    }, 3000);
+    }, 2000);
 }
 
 
